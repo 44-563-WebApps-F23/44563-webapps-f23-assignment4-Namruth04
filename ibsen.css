@@ -15,12 +15,21 @@
     background-color:#85de7c;
     color:red;
 }
+.name{
+    color:blue;
+}
 .MRSLINDE{
     color:brown ;
 }
 .KROGSTAD{
     color:blueviolet;
 }
+
+
+
+
+
+
 table{
     border:darkblue 9px solid;
     color:chartreuse;
@@ -41,3 +50,18 @@ tr:nth-child(even){
     text-shadow:2px 2px;
     filter:blur(2px);
 }
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:#000;
+    background-color:rgb(228, 81, 228)
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+    }
+    
