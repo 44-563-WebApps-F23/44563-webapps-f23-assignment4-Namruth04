@@ -27,7 +27,8 @@ table{
     text-align: center;
     padding:20px;
     margin:4px;
-
 }
-
+tr:nth-child(even){
+    background-color:antiquewhite;
+}
 
