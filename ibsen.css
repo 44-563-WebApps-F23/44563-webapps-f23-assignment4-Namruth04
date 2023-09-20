@@ -31,4 +31,13 @@ table{
 tr:nth-child(even){
     background-color:antiquewhite;
 }
-
+.MRSLINDE:hover{
+    color:lightslategray ;
+    text-shadow:2px 2px;
+    filter:blur(2px);
+}
+.KROGSTAD:hover{
+    color:lightseagreen;
+    text-shadow:2px 2px;
+    filter:blur(2px);
+}
