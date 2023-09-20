@@ -1,0 +1,23 @@
+.speech{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+
+}
+.direction{
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:large;
+    background-color: aquamarine;
+
+}
+.direction:hover{
+    background-color: azure;
+    color: aquamarine
+}
+.MRSLINDE{
+    color:brown ;
+}
+.KROGSTAD{
+    color:blueviolet;
+}
