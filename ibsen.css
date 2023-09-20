@@ -8,12 +8,12 @@
     color:black;
     font-family:Arial, Helvetica, sans-serif;
     font-size:large;
-    background-color: aquamarine;
+    background-color:antiquewhite;
 
 }
 .direction:hover{
-    background-color: azure;
-    color: aquamarine
+    background-color:#85de7c;
+    color:red;
 }
 .MRSLINDE{
     color:brown ;
