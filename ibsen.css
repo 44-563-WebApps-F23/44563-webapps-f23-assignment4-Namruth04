@@ -35,13 +35,13 @@ tr:nth-child(even){
     background-color:antiquewhite;
 }
 .MRSLINDE:hover{
-    border:darkblue 9px solid;
+    border:darkblue 2px solid;
     color:lightslategray ;
     text-shadow:2px 2px;
     filter:blur(2px);
 }
 .KROGSTAD:hover{
-    border:darkblue 9px solid;
+    border:darkblue 2px solid;
     color:lightseagreen;
     text-shadow:2px 2px;
     filter:blur(2px);
