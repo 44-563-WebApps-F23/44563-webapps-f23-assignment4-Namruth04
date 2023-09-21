@@ -37,14 +37,14 @@ tr:nth-child(even){
 .MRSLINDE:hover{
     border:darkblue 2px solid;
     color:lightslategray ;
-    text-shadow:2px 2px;
-    filter:blur(2px);
+    text-shadow:1px 3px;
+    filter:blur(1px);
 }
 .KROGSTAD:hover{
     border:darkblue 2px solid;
     color:lightseagreen;
-    text-shadow:2px 2px;
-    filter:blur(2px);
+    text-shadow:1px 3px;
+    filter:blur(1px);
 }
 ul.navbar-horizontal {
     list-style-type: none;
