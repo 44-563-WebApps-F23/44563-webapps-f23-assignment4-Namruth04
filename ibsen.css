@@ -25,11 +25,11 @@
     color:blueviolet;
 }
 table{
-    border:darkblue 9px solid;
+    border: 10px solid darkblue;
     color:chartreuse;
     text-align: center;
-    padding:20px;
-    margin:4px;
+    padding: 20px;
+    margin: 2px;
 }
 tr:nth-child(even){
     background-color:antiquewhite;
